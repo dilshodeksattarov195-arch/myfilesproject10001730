@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercetch",
+        "uuid": 1934140,
+        "checksum": "pi90vg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
